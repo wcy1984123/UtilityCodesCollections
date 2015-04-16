@@ -23,3 +23,7 @@
 6. Tomcat Configuration on Intellij:
 
  * http://blog.csdn.net/little__zm/article/details/19569397
+ 
+7. Java Web Application using Tomcat on Intellij:
+
+ * http://blog.csdn.net/little__zm/article/details/19570535
