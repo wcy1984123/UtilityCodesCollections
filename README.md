@@ -13,3 +13,4 @@
 | Javascript | http://www.w3cschool.cc/js/js-tutorial.html |
 | PHP | http://www.w3cschool.cc/php/php-tutorial.html |
 | CSS | http://www.w3cschool.cc/css/css-tutorial.html |
+| JQuery| http://www.w3cschool.cc/jquery/jquery-tutorial.html |
