@@ -16,3 +16,4 @@
 | JQuery| http://www.w3cschool.cc/jquery/jquery-tutorial.html |
 | JSON | http://www.w3cschool.cc/json/json-tutorial.html |
 | XML | http://www.w3cschool.cc/xml/xml-tutorial.html |
+| WSDL | http://www.w3cschool.cc/wsdl/wsdl-tutorial.html |
