@@ -14,3 +14,5 @@
 | PHP | http://www.w3cschool.cc/php/php-tutorial.html |
 | CSS | http://www.w3cschool.cc/css/css-tutorial.html |
 | JQuery| http://www.w3cschool.cc/jquery/jquery-tutorial.html |
+| JSON | http://www.w3cschool.cc/json/json-tutorial.html |
+| XML | http://www.w3cschool.cc/xml/xml-tutorial.html |
