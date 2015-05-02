@@ -12,8 +12,10 @@
 | Java Web Application using Tomcat on Intellij | http://blog.csdn.net/little__zm/article/details/19570535 |
 | Javascript | http://www.w3cschool.cc/js/js-tutorial.html |
 | PHP | http://www.w3cschool.cc/php/php-tutorial.html |
-| CSS | http://www.w3cschool.cc/css/css-tutorial.html |
+| CSS (Cascading Style Sheets) | http://www.w3cschool.cc/css/css-tutorial.html |
 | JQuery| http://www.w3cschool.cc/jquery/jquery-tutorial.html |
-| JSON | http://www.w3cschool.cc/json/json-tutorial.html |
-| XML | http://www.w3cschool.cc/xml/xml-tutorial.html |
-| WSDL | http://www.w3cschool.cc/wsdl/wsdl-tutorial.html |
+| JSON (JavaScript Object Notation) | http://www.w3cschool.cc/json/json-tutorial.html |
+| XML (Extensible Markup Language) | http://www.w3cschool.cc/xml/xml-tutorial.html |
+| WSDL (Web Services Description Language) | http://www.w3cschool.cc/wsdl/wsdl-tutorial.html |
+| SOAP (Simple Object Access protocol) | http://www.w3cschool.cc/soap/soap-tutorial.html |
+| Web Services | http://www.w3cschool.cc/webservices/webservices-tutorial.html |
