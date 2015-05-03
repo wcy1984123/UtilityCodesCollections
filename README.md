@@ -32,3 +32,5 @@
 |              | * Web services 可把应用程序转换为网络应用程序（web-applications）。通过使用 XML，消息可在应用程序之间进行传送。|
 |              |  http://www.w3cschool.cc/webservices/webservices-tutorial.html |
 | AJAX (Asynchronous JavaScript and XML(异步的 JavaScript 和 XML))| http://www.w3cschool.cc/ajax/ajax-tutorial.html |
+| Node.js | http://www.w3cschool.cc/nodejs/nodejs-tutorial.html |
+| Linux | http://www.w3cschool.cc/linux/linux-tutorial.html |
