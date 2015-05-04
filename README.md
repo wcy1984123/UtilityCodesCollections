@@ -38,3 +38,4 @@
 |      | 2. 通过 **homebrew** 安装 tmux. 输入 **brew install tmux** |
 |      | Tmux的使用方法和个性化配置 http://mingxinglai.com/cn/2012/09/tmux/ |
 |      | 我的Tmux Conf 文件的解释: https://linuxtoy.org/archives/from-screen-to-tmux.html |
+| Mac工作软件推荐－Iterm ＋ ZSH ＋ Tmux | http://www.wangyuxiong.com/archives/52137 |
