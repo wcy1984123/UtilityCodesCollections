@@ -36,3 +36,5 @@
 | Linux & Shell | http://www.w3cschool.cc/linux/linux-tutorial.html |
 | Tmux | 1. 在mac上如果要安裝tmux則需透過套件管理工具來處理安裝、升級跟移除。故需先安裝 **homebrew** 才能進行安裝. http://brew.sh/ |
 |      | 2. 通过 **homebrew** 安装 tmux. 输入 **brew install tmux** |
+|      | Tmux的使用方法和个性化配置 http://mingxinglai.com/cn/2012/09/tmux/ |
+|      | 我的Tmux Conf 文件的解释: https://linuxtoy.org/archives/from-screen-to-tmux.html |
