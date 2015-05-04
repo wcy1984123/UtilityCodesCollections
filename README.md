@@ -34,3 +34,5 @@
 | AJAX (Asynchronous JavaScript and XML(异步的 JavaScript 和 XML))| http://www.w3cschool.cc/ajax/ajax-tutorial.html |
 | Node.js | http://www.w3cschool.cc/nodejs/nodejs-tutorial.html |
 | Linux & Shell | http://www.w3cschool.cc/linux/linux-tutorial.html |
+| Tmux | 1. 在mac上如果要安裝tmux則需透過套件管理工具來處理安裝、升級跟移除。故需先安裝homebrew才能進行安裝. http://brew.sh/ |
+|      | 2. 通过homebrew 安装 tmux. 输入 ~~brew install tmux~~ 
