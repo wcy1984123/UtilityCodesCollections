@@ -22,7 +22,7 @@
 | SOAP (Simple Object Access protocol) | SOAP 是一种基于 XML 的简易协议，允许应用程序通过 HTTP 来交换信息。|
 |                                      | 或者更简单地讲，SOAP 是用于访问 web 服务的协议。|
 |                                      | http://www.w3cschool.cc/soap/soap-tutorial.html |
-| Web Services | * 基础的 Web Services 平台是 XML + HTTP。|
+| Web Services | * 基础的 Web Services 平台是 **XML + HTTP**。|
 |              | * HTTP 协议是最常用的因特网协议。|
 |              | * XML 提供了一种可用于不同的平台和编程语言之间的语言。|
 |              | * Web services 平台的元素：|
@@ -34,8 +34,5 @@
 | AJAX (Asynchronous JavaScript and XML(异步的 JavaScript 和 XML))| http://www.w3cschool.cc/ajax/ajax-tutorial.html |
 | Node.js | http://www.w3cschool.cc/nodejs/nodejs-tutorial.html |
 | Linux & Shell | http://www.w3cschool.cc/linux/linux-tutorial.html |
-| Tmux |    、、、
-            1. 在mac上如果要安裝tmux則需透過套件管理工具來處理安裝、升級跟移除。
-            故需先安裝 **homebrew** 才能進行安裝. http://brew.sh/ 
-            、、、|
-|      | 2. 通过homebrew 安装 tmux. 输入 **brew install tmux** 
+| Tmux | 1. 在mac上如果要安裝tmux則需透過套件管理工具來處理安裝、升級跟移除。故需先安裝 **homebrew** 才能進行安裝. http://brew.sh/ |
+|      | 2. 通过 **homebrew** 安装 tmux. 输入 **brew install tmux** |
