@@ -33,4 +33,4 @@
 |              |  http://www.w3cschool.cc/webservices/webservices-tutorial.html |
 | AJAX (Asynchronous JavaScript and XML(异步的 JavaScript 和 XML))| http://www.w3cschool.cc/ajax/ajax-tutorial.html |
 | Node.js | http://www.w3cschool.cc/nodejs/nodejs-tutorial.html |
-| Linux | http://www.w3cschool.cc/linux/linux-tutorial.html |
+| Linux & Shell | http://www.w3cschool.cc/linux/linux-tutorial.html |
