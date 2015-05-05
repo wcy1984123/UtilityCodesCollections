@@ -34,13 +34,21 @@
 | AJAX (Asynchronous JavaScript and XML(异步的 JavaScript 和 XML))| http://www.w3cschool.cc/ajax/ajax-tutorial.html |
 | Node.js | http://www.w3cschool.cc/nodejs/nodejs-tutorial.html |
 | Linux & Shell | http://www.w3cschool.cc/linux/linux-tutorial.html |
-| Tmux | 1. 在mac上如果要安裝tmux則需透過套件管理工具來處理安裝、升級跟移除。故需先安裝 **homebrew** 才能進行安裝. http://brew.sh/ |
+| Tmux | 1. 在mac上如果要安裝tmux則需透過套件管理工具來處理安裝、升級跟移除。故需先安裝 **homebrew** 才能進行安裝. 根据http://brew.sh/进行安装**homebrew** |
 |      | 2. 通过 **homebrew** 安装 tmux. 输入 **brew install tmux** |
 |      | Tmux的使用方法和个性化配置 http://mingxinglai.com/cn/2012/09/tmux/ |
 |      | 我的Tmux Conf 文件的解释: https://linuxtoy.org/archives/from-screen-to-tmux.html |
-| Mac工作软件推荐－Iterm ＋ ZSH ＋ Tmux | http://www.wangyuxiong.com/archives/52137 |
-| Tmux & Screen-256 TERM not supported on remote hosts | Solution: |
-|                                                      | 1.On the local system, dump the description to text format:
+| Iterm2 | https://iterm2.com/index.html |
+|        | Installation: Download it from the above link and put it in Applications|
+| Zsh | http://www.zsh.org/ |
+|     | Installation: 安装**homebrew**, 然后通过**brew install zsh**命令安装 |
+| Zsh 配置 | Color Theme: https://github.com/robbyrussell/oh-my-zsh/wiki/themes |
+|         | oh-my-zsh: http://ohmyz.sh/ |
+|         | oh-my-zsh on git hub: https://github.com/robbyrussell/oh-my-zsh |
+| Bash | http://www.tldp.org/LDP/Bash-Beginners-Guide/html/Bash-Beginners-Guide.html#chap_02 |
+|      | Bash prompt basics: http://linuxconfig.org/bash-prompt-basics |
+| Mac工作软件推荐－Iterm2 ＋ ZSH ＋ Tmux | http://www.wangyuxiong.com/archives/52137 |
+| How to solve Tmux & Screen-256 TERM not supported on remote hosts? | 1.On the local system, dump the description to text format: |
 |                                                      | **infocmp xterm-256color > xterm-256color.ti** |                                                   
 |                                                      | **infocmp screen-256color > screen-256color.ti** |
 |                                                      | 2.On the local system, copy to the remote host |
@@ -51,5 +59,6 @@
 |                                                      | **tic screen-256color.ti** |
 |                                                      | http://superuser.com/questions/431922/tmux-and-screen-256-term-not-supported-on-remote-hosts |
 |                                                      | http://karloluiten.nl/fix-terminal-entry-not-found-in-terminfo-screen-256color-not-known/ |
-
+| How to use a vim color scheme?| http://alvinalexander.com/linux/vi-vim-editor-color-scheme-colorscheme |
+|                               | https://github.com/altercation/vim-colors-solarized |
                                                             
