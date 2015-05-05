@@ -40,6 +40,7 @@
 |      | 我的Tmux Conf 文件的解释: https://linuxtoy.org/archives/from-screen-to-tmux.html |
 | Iterm2 | https://iterm2.com/index.html |
 |        | Installation: Download it from the above link and put it in Applications|
+|        | General Usage: https://iterm2.com/documentation-general-usage.html |
 | Zsh | http://www.zsh.org/ |
 |     | Installation: 安装**homebrew**, 然后通过**brew install zsh**命令安装 |
 | Zsh 配置 | Color Theme: https://github.com/robbyrussell/oh-my-zsh/wiki/themes |
@@ -62,4 +63,27 @@
 |                                                      | http://karloluiten.nl/fix-terminal-entry-not-found-in-terminfo-screen-256color-not-known/ |
 | How to use a vim color scheme?| http://alvinalexander.com/linux/vi-vim-editor-color-scheme-colorscheme |
 |                               | https://github.com/altercation/vim-colors-solarized |
+| Powerline on zsh, vim, tmux | http://lee-w-blog.logdown.com/posts/210946-powerline-on-zsh-vim-tmux |
+|                             | See the following installation links in this webpage about powerline on zsh, vim, and tmux: |
+|                             | 1. How to install powerline fonts? |
+|                             | 2. How to install zsh powerline? |
+|                             | 3. How to add a vim power line? |
+|                             | 4. How to add a tmux power line? |
+|                             | Before installing 2, 3, and 4, it must install 1 at first! |
+| How to install powerline fonts? | Installation: |
+|                                | 1. **git clone https://github.com/powerline/fonts.git** |
+|                                | 2. Run **./install.sh** to install all Powerline Fonts|
+|                                | 3. Change font in termianl such as **Terminal** or **Iterm2** to font with "powerline" extension |
+|                                | https://github.com/powerline/fonts |
+| How to install zsh powerline? | Installation: |
+|                               | 1. git clone https://github.com/jeremyFreeAgent/oh-my-zsh-powerline-theme.git |
+|                               | 2. Create a symlink of powerline.zsh-theme in .oh-my-zsh/themes/. You can use the install_in_omz.sh file: **./install_in_omz.sh** |
+|                               | 3. Configure the theme in your .zshrc file: **ZSH_THEME="powerline"** |
+|                               | https://github.com/jeremyFreeAgent/oh-my-zsh-powerline-theme |
+| How to add a vim power line? | Installation: |
+|                              | 1. **git clone https://github.com/bling/vim-airline ~/.vim/** |
+|                              | 2. add **set laststatus=2** in .vimrc file. The default setting of 'laststatus' is for the statusline to not appear until a split is created. If you want it to appear all the time, add the above statement to your vimrc|
+|                              | https://github.com/bling/vim-airline |
+| How to add a tmux power line? | |
+|                               | https://github.com/erikw/tmux-powerline |
                                                             
