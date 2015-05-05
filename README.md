@@ -45,6 +45,7 @@
 | Zsh 配置 | Color Theme: https://github.com/robbyrussell/oh-my-zsh/wiki/themes |
 |         | oh-my-zsh: http://ohmyz.sh/ |
 |         | oh-my-zsh on git hub: https://github.com/robbyrussell/oh-my-zsh |
+|         | Installation: 先安装**homebrew**, 然后通过**brew install wget**安装 wget, 最后通过 **wget https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh -O - | sh** 安装on-my-zsh |
 | Bash | http://www.tldp.org/LDP/Bash-Beginners-Guide/html/Bash-Beginners-Guide.html#chap_02 |
 |      | Bash prompt basics: http://linuxconfig.org/bash-prompt-basics |
 | Mac工作软件推荐－Iterm2 ＋ ZSH ＋ Tmux | http://www.wangyuxiong.com/archives/52137 |
