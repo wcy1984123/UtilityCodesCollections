@@ -39,7 +39,8 @@
 |      | Tmux的使用方法和个性化配置 http://mingxinglai.com/cn/2012/09/tmux/ |
 |      | 我的Tmux Conf 文件的解释: https://linuxtoy.org/archives/from-screen-to-tmux.html |
 | Mac工作软件推荐－Iterm ＋ ZSH ＋ Tmux | http://www.wangyuxiong.com/archives/52137 |
-| Tmux & Screen-256 TERM not supported on remote hosts | 1.On the local system, dump the description to text format:
+| Tmux & Screen-256 TERM not supported on remote hosts | Solution: |
+|                                                      | 1.On the local system, dump the description to text format:
 |                                                      | **infocmp xterm-256color > xterm-256color.ti** |                                                   
 |                                                      | **infocmp screen-256color > screen-256color.ti** |
 |                                                      | 2.On the local system, copy to the remote host |
@@ -48,4 +49,7 @@
 |                                                      | 3.Go to the remote host and compile |
 |                                                      | **tic xterm-256color.ti** |                             
 |                                                      | **tic screen-256color.ti** |
+|                                                      | http://superuser.com/questions/431922/tmux-and-screen-256-term-not-supported-on-remote-hosts |
+|                                                      | http://karloluiten.nl/fix-terminal-entry-not-found-in-terminfo-screen-256color-not-known/ |
+
                                                             
