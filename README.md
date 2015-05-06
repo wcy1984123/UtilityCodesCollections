@@ -99,7 +99,7 @@
 |                               |       bind C-] run '~/path/to/tmux-powerline/mute_powerline.sh right'     # set "/path/to" by yourself # Mute right statusbar. |
 |                               |       set-option -g status-right "#(~/path/to/tmux-powerline/powerline.sh right)"    # set "/path/to" by yourself |
 |                               | 3. restart tmux by executing **tmux source-file .tmux.conf**      
-|                               | 4. Add the following line to **.zshrc**|
+|                               | 4. Add the following line to **.pwzshrc**|
 |                               |       PS1="$PS1"'$([ -n "$TMUX" ] && tmux setenv TMUXPWD_$(tmux display -p "#D" | tr -d %) "$PWD")' |
 |                               | 5. source .zshrc |
 |                               | 6. Go to tmux-powerline directory and run **./generate_rc.sh** |
