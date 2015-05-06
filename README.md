@@ -85,11 +85,27 @@
 |                              | 2. add **set laststatus=2** in .vimrc file. The default setting of 'laststatus' is for the statusline to not appear until a split is created. If you want it to appear all the time, add the above statement to your vimrc|
 |                              | https://github.com/bling/vim-airline |
 | How to add a tmux power line? | Installation: |
-|                               | 1. |
-|                               | 2. |
-|                               | 3. |
-|                               | 4. |
-|                               | 5. |
+|                               | 1. **git clone https://github.com/erikw/tmux-powerline.git**|
+|                               | 2. edit ~/.tmux.conf to use the following scripts:|
+|                               |       set-option -g status on |
+|                               |       set-option -g status-interval 2 |
+|                               |       set-option -g status-utf8 on |
+|                               |       set-option -g status-justify "centre" |
+|                               |       set-option -g status-left-length 60 # set it by yourself |
+|                               |       set-option -g status-right-length 90 # set if by yourself |
+|                               |       set-option -g status-left "#(~/path/to/tmux-powerline/powerline.sh left)"      # set "/path/to" by yourself |
+|                               |       set-option -g status-right "#(~/path/to/tmux-powerline/powerline.sh right)"    # set "/path/to" by yourself |
+|                               |       bind C-[ run '~/path/to/tmux-powerline/mute_powerline.sh left'      # set "/path/to" by yourself # Mute left statusbar. |
+|                               |       bind C-] run '~/path/to/tmux-powerline/mute_powerline.sh right'     # set "/path/to" by yourself # Mute right statusbar. |
+|                               |       set-option -g status-right "#(~/path/to/tmux-powerline/powerline.sh right)"    # set "/path/to" by yourself |
+|                               | 3. restart tmux by executing **tmux source-file .tmux.conf**      
+|                               | 4. Add the following line to **.zshrc**|
+|                               |       PS1="$PS1"'$([ -n "$TMUX" ] && tmux setenv TMUXPWD_$(tmux display -p "#D" | tr -d %) "$PWD")' |
+|                               | 5. source .zshrc |
+|                               | 6. Go to tmux-powerline directory and run **./generate_rc.sh** |
+|                               | 7. Run **mv ~/.tmux-powerlinerc.default ~/.tmux-powerlinerc** |
+|                               | 8. Edit .tmux-powerlinerc to enter your values |
+|                               | 9. restart tmux by executing **tmux source-file .tmux.conf** 
 |                               | https://github.com/erikw/tmux-powerline |
 
                                                             
