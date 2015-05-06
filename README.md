@@ -86,4 +86,5 @@
 |                              | https://github.com/bling/vim-airline |
 | How to add a tmux power line? | |
 |                               | https://github.com/erikw/tmux-powerline |
+
                                                             
