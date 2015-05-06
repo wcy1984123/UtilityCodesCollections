@@ -107,5 +107,4 @@
 |                               | 8. Edit .tmux-powerlinerc to enter your values |
 |                               | 9. restart tmux by executing **tmux source-file .tmux.conf** 
 |                               | https://github.com/erikw/tmux-powerline |
-
                                                             
