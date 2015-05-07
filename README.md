@@ -117,3 +117,4 @@
 |           | Installation: **brew install mercurial** (see link: http://mercurial.selenic.com/downloads)|
 |           | Usage Guide: http://mercurial.selenic.com/wiki/Tutorial |
 | Arcanist (Code Review) | https://github.com/phacility/arcanist |
+| git | http://git-scm.com/ |
