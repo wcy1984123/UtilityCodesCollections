@@ -115,3 +115,4 @@
 |            | 2. configure;make;sudo make install; (http://blog.binchen.org/posts/jian-chi-shi-yong-gnu-screen.html) |
 | Mercurial | http://mercurial.selenic.com/ |
 |           | Installation: **brew install mercurial** (see link: http://mercurial.selenic.com/downloads)|
+|           | Usage Guide: http://mercurial.selenic.com/wiki/Tutorial |
