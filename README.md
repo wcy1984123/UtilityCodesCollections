@@ -116,6 +116,7 @@
 | Mercurial | http://mercurial.selenic.com/ |
 |           | Installation: **brew install mercurial** (see link: http://mercurial.selenic.com/downloads)|
 |           | Usage Guide: http://mercurial.selenic.com/wiki/Tutorial |
+|           | HGRC Configuration Usage: http://www.selenic.com/mercurial/hgrc.5.html#ui |
 | Arcanist (Code Review) | https://github.com/phacility/arcanist |
 | git | http://git-scm.com/ |
-
+|||
