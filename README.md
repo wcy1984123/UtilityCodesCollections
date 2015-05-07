@@ -109,4 +109,9 @@
 |                               | 8. Edit .tmux-powerlinerc to enter your values |
 |                               | 9. restart tmux by executing **tmux source-file .tmux.conf** 
 |                               | https://github.com/erikw/tmux-powerline |
-                                                            
+| GNU Screen | https://www.gnu.org/software/screen/ |
+|            | Installation: 
+|            | 1. 去官方网站下载最新源代码包(目前版本为4.0.3),解压缩 (http://ftp.gnu.org/gnu/screen/) |
+|            | 2. configure;make;sudo make install; (http://blog.binchen.org/posts/jian-chi-shi-yong-gnu-screen.html) |
+| Mercurial | http://mercurial.selenic.com/ |
+|           | Installation: **brew install mercurial** (see link: http://mercurial.selenic.com/downloads)|
