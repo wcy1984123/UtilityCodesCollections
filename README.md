@@ -49,6 +49,8 @@
 |         | Installation: 先安装**homebrew**, 然后通过**brew install wget**安装 wget, 最后通过 **wget https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh -O - \| sh** 安装on-my-zsh |
 | Bash | http://www.tldp.org/LDP/Bash-Beginners-Guide/html/Bash-Beginners-Guide.html#chap_02 |
 |      | Bash prompt basics: http://linuxconfig.org/bash-prompt-basics |
+| Vim | http://www.vim.org/ |
+|     | http://www.cs.swarthmore.edu/help/vim/home.html |
 | Mac工作软件推荐－Iterm2 ＋ ZSH ＋ Tmux | http://www.wangyuxiong.com/archives/52137 |
 | How to solve Tmux & Screen-256 TERM not supported on remote hosts? | 1.On the local system, dump the description to text format: |
 |                                                      | **infocmp xterm-256color > xterm-256color.ti** |                                                   
