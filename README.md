@@ -51,6 +51,7 @@
 |      | Bash prompt basics: http://linuxconfig.org/bash-prompt-basics |
 | Vim | http://www.vim.org/ |
 |     | http://www.cs.swarthmore.edu/help/vim/home.html |
+|     | Graphical vi-vim Cheat Sheet and Tutorial (http://www.viemu.com/a_vi_vim_graphical_cheat_sheet_tutorial.html) |
 | Mac工作软件推荐－Iterm2 ＋ ZSH ＋ Tmux | http://www.wangyuxiong.com/archives/52137 |
 | How to solve Tmux & Screen-256 TERM not supported on remote hosts? | 1.On the local system, dump the description to text format: |
 |                                                      | **infocmp xterm-256color > xterm-256color.ti** |                                                   
