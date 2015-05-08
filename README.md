@@ -34,7 +34,7 @@
 | AJAX (Asynchronous JavaScript and XML(异步的 JavaScript 和 XML))| http://www.w3cschool.cc/ajax/ajax-tutorial.html |
 | Node.js | http://www.w3cschool.cc/nodejs/nodejs-tutorial.html |
 | Linux & Shell | http://www.w3cschool.cc/linux/linux-tutorial.html |
-| Tmux | 1. 在mac上如果要安裝tmux則需透過套件管理工具來處理安裝、升級跟移除。故需先安裝 **homebrew** 才能進行安裝. 根据http://brew.sh/进行安装**homebrew** |
+| Tmux | 1. 在mac上如果要安裝tmux則需透過套件管理工具來處理安裝、升級跟移除。故需先安裝 **homebrew** 才能進行安裝. 根据http://brew.sh/ 进行安装**homebrew** |
 |      | 2. 通过 **homebrew** 安装 tmux. 输入 **brew install tmux** |
 |      | Tmux的使用方法和个性化配置 http://mingxinglai.com/cn/2012/09/tmux/ |
 |      | 我的Tmux Conf 文件的解释: https://linuxtoy.org/archives/from-screen-to-tmux.html |
@@ -64,6 +64,7 @@
 |                                                      | **tic screen-256color.ti** |
 |                                                      | http://superuser.com/questions/431922/tmux-and-screen-256-term-not-supported-on-remote-hosts |
 |                                                      | http://karloluiten.nl/fix-terminal-entry-not-found-in-terminfo-screen-256color-not-known/ |
+|                                                      | scp command introduction: http://www.binarytides.com/linux-scp-command/ |
 | How to use a vim color scheme?| http://alvinalexander.com/linux/vi-vim-editor-color-scheme-colorscheme |
 |                               | https://github.com/altercation/vim-colors-solarized |
 | Powerline on zsh, vim, tmux | http://lee-w-blog.logdown.com/posts/210946-powerline-on-zsh-vim-tmux |
