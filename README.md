@@ -121,4 +121,3 @@
 |           | HGRC Configuration Usage: http://www.selenic.com/mercurial/hgrc.5.html#ui |
 | Arcanist (Code Review) | https://github.com/phacility/arcanist |
 | git | http://git-scm.com/ |
-|||
