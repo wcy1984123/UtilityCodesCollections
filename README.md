@@ -38,6 +38,7 @@
 |      | 2. 通过 **homebrew** 安装 tmux. 输入 **brew install tmux** |
 |      | Tmux的使用方法和个性化配置 http://mingxinglai.com/cn/2012/09/tmux/ |
 |      | 我的Tmux Conf 文件的解释: https://linuxtoy.org/archives/from-screen-to-tmux.html |
+|      | 列出所有的 tmux commands: **tmux list-command** |
 | Iterm2 | https://iterm2.com/index.html |
 |        | Installation: Download it from the above link and put it in Applications|
 |        | General Usage: https://iterm2.com/documentation-general-usage.html |
@@ -103,7 +104,7 @@
 |                               |       bind C-] run '~/path/to/tmux-powerline/mute_powerline.sh right'     # set "/path/to" by yourself # Mute right statusbar. |
 |                               |       set-option -g status-right "#(~/path/to/tmux-powerline/powerline.sh right)"    # set "/path/to" by yourself |
 |                               | 3. restart tmux by executing **tmux source-file .tmux.conf**      
-|                               | 4. Add the following line to **.pwzshrc**|
+|                               | 4. Add the following line to **.zshrc**|
 |                               |       PS1="$PS1"'$([ -n "$TMUX" ] && tmux setenv TMUXPWD_$(tmux display -p "#D" | tr -d %) "$PWD")' |
 |                               | 5. source .zshrc |
 |                               | 6. Go to tmux-powerline directory and run **./generate_rc.sh** |
@@ -121,3 +122,4 @@
 |           | HGRC Configuration Usage: http://www.selenic.com/mercurial/hgrc.5.html#ui |
 | Arcanist (Code Review) | https://github.com/phacility/arcanist |
 | git | http://git-scm.com/ |
+| Regluar Expression | http://www.regular-expressions.info/tutorial.html |
