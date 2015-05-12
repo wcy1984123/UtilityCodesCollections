@@ -34,6 +34,7 @@
 | AJAX (Asynchronous JavaScript and XML(异步的 JavaScript 和 XML))| http://www.w3cschool.cc/ajax/ajax-tutorial.html |
 | Node.js | http://www.w3cschool.cc/nodejs/nodejs-tutorial.html |
 | Linux & Shell | http://www.w3cschool.cc/linux/linux-tutorial.html |
+|               | http://linux.vbird.org/linux_basic/0340bashshell-scripts.php |
 | Tmux | 1. 在mac上如果要安裝tmux則需透過套件管理工具來處理安裝、升級跟移除。故需先安裝 **homebrew** 才能進行安裝. 根据http://brew.sh/ 进行安装**homebrew** |
 |      | 2. 通过 **homebrew** 安装 tmux. 输入 **brew install tmux** |
 |      | Tmux的使用方法和个性化配置 http://mingxinglai.com/cn/2012/09/tmux/ |
@@ -50,9 +51,11 @@
 |         | Installation: 先安装**homebrew**, 然后通过**brew install wget**安装 wget, 最后通过 **wget https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh -O - \| sh** 安装on-my-zsh |
 | Bash | http://www.tldp.org/LDP/Bash-Beginners-Guide/html/Bash-Beginners-Guide.html#chap_02 |
 |      | Bash prompt basics: http://linuxconfig.org/bash-prompt-basics |
+|      | http://linux.vbird.org/linux_basic/0320bash.php |
 | Vim | http://www.vim.org/ |
 |     | http://www.cs.swarthmore.edu/help/vim/home.html |
 |     | Graphical vi-vim Cheat Sheet and Tutorial (http://www.viemu.com/a_vi_vim_graphical_cheat_sheet_tutorial.html) |
+|     | http://linux.vbird.org/linux_basic/0310vi.php |
 | Mac工作软件推荐－Iterm2 ＋ ZSH ＋ Tmux | http://www.wangyuxiong.com/archives/52137 |
 | How to solve Tmux & Screen-256 TERM not supported on remote hosts? | 1.On the local system, dump the description to text format: |
 |                                                      | **infocmp xterm-256color > xterm-256color.ti** |                                                   
@@ -126,5 +129,5 @@
 |                    | http://www.ahlinux.com/start/cmd/404.html |
 |                    | http://liaoph.com/linux-basic-grep/ |
 |                    | http://xlows.blog.51cto.com/5380484/1365605 |
-| Open Source Agreement | http://xlows.blog.51cto.com/5380484/1361917 |
+| Open Source Agreements | http://xlows.blog.51cto.com/5380484/1361917 |
 | Linux Command Basics | http://xlows.blog.51cto.com/5380484/1362183 |
