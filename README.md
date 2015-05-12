@@ -124,3 +124,7 @@
 | git | http://git-scm.com/ |
 | Regluar Expression | http://www.regular-expressions.info/tutorial.html |
 |                    | http://www.ahlinux.com/start/cmd/404.html |
+|                    | http://liaoph.com/linux-basic-grep/ |
+|                    | http://xlows.blog.51cto.com/5380484/1365605 |
+| Open Source Agreement | http://xlows.blog.51cto.com/5380484/1361917 |
+| Linux Command Basics | http://xlows.blog.51cto.com/5380484/1362183 |
